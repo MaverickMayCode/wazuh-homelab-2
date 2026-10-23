@@ -4,6 +4,7 @@ This project will cover the following areas:
 - Splunk - hosted on an Ubuntu Server VM
 - Active Directory - hosted on a Windows Server 2022 VM
 - Windows Systems - Windows 10 VM
+- Using Kali as an attacker
 
 1. First, we started by creating a diagram of our project including: a router, a switch, a computer (Windows 10), another computer (Kali Attacker), a server (Splunk), another server (Windows Server 2022), and, of course, the internet.
 2. Second, we installed our VMs including: Windows 10, Kali Linux, Ubuntu Server, and Windows Server 2022.
